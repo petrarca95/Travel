@@ -1,15 +1,15 @@
-#Activities
+# Actividades
 
 
 
-####Parque Nacional Corcovado
+#### Parque Nacional Corcovado
 - No se puede entrar sin guia ?!??!
 - pasar una noche, el unico lugar es en el SEctor Sirena (30$, 25$ desayuna... 30$ cena.... , llevar comida si posible)
 
 
 #### Parque nacional Manuel Antonio
 
-####Ziplining
+#### Ziplining
 Lugares:
 -Monteverde
 -La Fortuna
@@ -31,7 +31,7 @@ Beaches
 - rio pacuare
 
 
-####Ram Luna
+#### Ram Luna
 - Restaurante con vista de San Jose
 
 
